@@ -482,6 +482,8 @@
       <dict>
         <key>fontStyle</key>
         <string>bold</string>
+        <key>foreground</key>
+        <string>#000000</string>
       </dict>
     </dict>
     <dict>
@@ -510,6 +512,21 @@
         <string>#009999</string>
       </dict>
     </dict>
+
+    <dict>
+      <key>name</key>
+      <string>css punctuation</string>
+      <key>scope</key>
+      <string>source.css punctuation.separator - source.php, source.css punctuation.terminator - source.php</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#DA29FF</string>
+      </dict>
+    </dict>
+
     <dict>
       <key>name</key>
       <string>css ending</string>
@@ -657,6 +674,21 @@
         <string></string>
         <key>foreground</key>
         <string>#000000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Invalid</string>
+      <key>scope</key>
+      <string>invalid</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#EFFF8A</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#EE000B</string>
       </dict>
     </dict>
   </array>
