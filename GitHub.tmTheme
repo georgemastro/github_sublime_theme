@@ -18,7 +18,7 @@
         <key>invisibles</key>
         <string>#BFBFBF</string>
         <key>lineHighlight</key>
-        <string>#00000012</string>
+        <string>#e1e1e1</string>
         <key>selection</key>
         <string>#BCD5FA</string>
       </dict>
@@ -57,7 +57,7 @@
         <key>fontStyle</key>
         <string>bold</string>
         <key>foreground</key>
-        <string>#386689</string>
+        <string>#3158c9</string>
       </dict>
     </dict>
     <dict>
@@ -512,7 +512,6 @@
         <string>#009999</string>
       </dict>
     </dict>
-
     <dict>
       <key>name</key>
       <string>css punctuation</string>
@@ -526,7 +525,6 @@
         <string>#DA29FF</string>
       </dict>
     </dict>
-
     <dict>
       <key>name</key>
       <string>css ending</string>
@@ -615,7 +613,7 @@
         <key>fontStyle</key>
         <string>bold</string>
         <key>foreground</key>
-        <string>#990000</string>
+        <string>#3158c9</string>
       </dict>
     </dict>
     <dict>
