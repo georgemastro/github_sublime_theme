@@ -344,6 +344,19 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#458</string>
 			</dict>
 		</dict>
+    <dict>
+      <key>name</key>
+      <string>php begin/end block</string>
+      <key>scope</key>
+      <string>source.php punctuation.section.embedded.begin, source.php punctuation.section.embedded.end</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>normal</string>
+        <key>foreground</key>
+        <string>#940007</string>
+      </dict>
+    </dict>
 		<dict>
 			<key>name</key>
 			<string>Library class/type</string>
